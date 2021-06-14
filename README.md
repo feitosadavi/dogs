@@ -1,70 +1,79 @@
-# Getting Started with Create React App
+<div>
+<h1 align="center">
+  <b>Social Dogs</b>
+</h1>
+<p align="center">A Social Network made for dogs</p><br>
+</div>
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+<div align="center" id="top"> 
+<!--   <img src="./dogs/public/gif.gif" alt="Dogs" />
 
-## Available Scripts
+  &#xa0;
 
-In the project directory, you can run:
+  <!-- <a href="https://dogs.netlify.com">Demo</a> -->
+</div>
 
-### `npm start`
+<p align="center">
+  <a href="http://makeapullrequest.com">
+    <img src="https://img.shields.io/badge/progress-100%25-brightgreen.svg" alt="PRs Welcome">
+  </a>
+  <a href="http://makeapullrequest.com">
+    <img src="https://img.shields.io/badge/contribuition-welcome-brightgreen.svg" alt="PRs Welcome">
+  </a>
+  <img alt="Principal linguagem do projeto" src="https://img.shields.io/github/languages/top/feitosadavi/dogs?color=56BEB8">
 
-Runs the app in the development mode.\
-Open [http://localhost:3000](http://localhost:3000) to view it in the browser.
+  <img alt="Quantidade de linguagens utilizadas" src="https://img.shields.io/github/languages/count/feitosadavi/dogs?color=56BEB8">
 
-The page will reload if you make edits.\
-You will also see any lint errors in the console.
+  <img alt="Tamanho do repositório" src="https://img.shields.io/github/repo-size/feitosadavi/dogs?color=56BEB8">
+</p>
 
-### `npm test`
+<p align="center">
+ <a href="#about">About</a> • 
+ <a href="#setup">Setup</a> 
+</p>
 
-Launches the test runner in the interactive watch mode.\
-See the section about [running tests](https://facebook.github.io/create-react-app/docs/running-tests) for more information.
+# ℹ️ About
 
-### `npm run build`
+Social Dogs is a Social Network made for Dogs. 🐶 <br>
+The user can register in the app, upload and delete photos of their dogs, make comments on other posts and have statistics about their profile engagement<br>
+This project is based on the Origamid Complete React Course.<br><br>
 
-Builds the app for production to the `build` folder.\
-It correctly bundles React in production mode and optimizes the build for the best performance.
+  <br>
 
-The build is minified and the filenames include the hashes.\
-Your app is ready to be deployed!
+# 💻: Tecnologias ##
 
-See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
+The following tecnologies were used in this project
 
-### `npm run eject`
+- [React Js](https://pt-br.reactjs.org/)
+- [React Router](https://reactrouter.com/)
+- [Css Module](https://github.com/css-modules/css-modules)
 
-**Note: this is a one-way operation. Once you `eject`, you can’t go back!**
+  <br>
 
-If you aren’t satisfied with the build tool and configuration choices, you can `eject` at any time. This command will remove the single build dependency from your project.
+# 🚀 Setup
 
-Instead, it will copy all the configuration files and the transitive dependencies (webpack, Babel, ESLint, etc) right into your project so you have full control over them. All of the commands except `eject` will still work, but they will point to the copied scripts so you can tweak them. At this point you’re on your own.
+To download this project, follow the instructions below.
 
-You don’t have to ever use `eject`. The curated feature set is suitable for small and middle deployments, and you shouldn’t feel obligated to use this feature. However we understand that this tool wouldn’t be useful if you couldn’t customize it when you are ready for it.
+```sh
+git clone https://github.com/feitosadavi/dogs.git
 
-## Learn More
+cd dogs
+```
 
-You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
+Install dependencies and start the project:
 
-To learn React, check out the [React documentation](https://reactjs.org/).
+```sh
+yarn install
+yarn start
+```
 
-### Code Splitting
+or
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/code-splitting](https://facebook.github.io/create-react-app/docs/code-splitting)
+```sh
+npm install
+npm start
+```
 
-### Analyzing the Bundle Size
+<br><br>
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size](https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size)
-
-### Making a Progressive Web App
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app](https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app)
-
-### Advanced Configuration
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/advanced-configuration](https://facebook.github.io/create-react-app/docs/advanced-configuration)
-
-### Deployment
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/deployment](https://facebook.github.io/create-react-app/docs/deployment)
-
-### `npm run build` fails to minify
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
+Made by Davi Feitosa ❤️
