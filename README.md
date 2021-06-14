@@ -33,7 +33,7 @@
  <a href="#setup">Setup</a> 
 </p>
 
-# ℹ️ About
+## ℹ️ About ##
 
 Social Dogs is a Social Network made for Dogs. 🐶 <br>
 The user can register in the app, upload and delete photos of their dogs, make comments on other posts and have statistics about their profile engagement<br>
@@ -41,7 +41,7 @@ This project is based on the Origamid Complete React Course.<br><br>
 
   <br>
 
-# 💻: Technologies ##
+## 💻: Technologies ##
 
 The following technologies were used in this project
 
@@ -51,7 +51,7 @@ The following technologies were used in this project
 
   <br>
 
-# 🚀 Setup
+## 🚀 Setup ##
 
 To download this project, follow the instructions below.
 
