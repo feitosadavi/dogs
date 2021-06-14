@@ -29,6 +29,7 @@
 
 <p align="center">
  <a href="#about">About</a> • 
+ <a href="#technologies">Technologies</a> • 
  <a href="#setup">Setup</a> 
 </p>
 
@@ -40,9 +41,9 @@ This project is based on the Origamid Complete React Course.<br><br>
 
   <br>
 
-# 💻: Tecnologias ##
+# 💻: Technologies ##
 
-The following tecnologies were used in this project
+The following technologies were used in this project
 
 - [React Js](https://pt-br.reactjs.org/)
 - [React Router](https://reactrouter.com/)
